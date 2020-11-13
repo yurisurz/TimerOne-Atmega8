@@ -1,11 +1,11 @@
 {
-  "name": "TimerOne",
+  "name": "TimerOne-ATMega8",
   "keywords": "timer",
   "description": "Allow to use the built-in 16 bit Timer1",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/PaulStoffregen/TimerOne.git"
+    "url": "https://github.com/yurisurz/TimerOne-Atmega8"
   },
   "frameworks": "arduino",
   "platforms":
